@@ -4,12 +4,8 @@ i`m fine
 
 hey u
 what?
-<<<<<<< HEAD
 :D
 
 
 
 asdasdsadasd
-=======
-:D
->>>>>>> parent of 9ce1380... last commit 17.09.20
