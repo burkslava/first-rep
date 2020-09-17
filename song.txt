@@ -20,3 +20,6 @@ head 3
 
 git master 18.20
 git master 18.21
+
+git feature 18.24
+git feature 18.25
